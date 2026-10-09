@@ -1,7 +1,8 @@
-VEHIKAL.COM landing page
-- Open index.html in a browser to preview.
-- Responsive layout for mobile and desktop.
-- The only call-to-action is CONTACT OWNER, which opens an email to Acquire@Vehikal.Com.
-- No domain marketplace names or logos are included.
-- No asking price is displayed.
-- To publish, upload index.html and styles.css to your hosting root.
+Vehikal.com reference-style landing page
+Files:
+- index.html
+- styles.css
+- hero.jpg
+
+The page uses the supplied reference artwork as the visual backdrop to preserve its exact cinematic car/city styling. The printed $100,000 price is covered with a gold BUY NOW button; Acquire@Vehikal.Com appears inside the button. The top marketplace strip is replaced with neutral text. The CTA opens an email to Acquire@Vehikal.Com.
+Upload all three files together to the hosting root folder.
